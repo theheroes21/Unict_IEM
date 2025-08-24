@@ -3,6 +3,7 @@
 ## 1. Base (Input)
 
 <img width="256" height="256" alt="lena" src="https://github.com/user-attachments/assets/13f3a3c0-125a-47e6-b605-4ca22a1be885" />
+
 La nostra amata Lena.png 
 
 ## 2. Base(0.0), Negativo (256.0), Gamma(0.256), Logaritmo(256,256)
@@ -20,5 +21,7 @@ La nostra amata Lena.png
 `s = (256 / ln(256)) * ln(1 + r)`
 
 r = valore del pixel in input (0-255)
+
 s = valore del pixel in output (0-255)
+
 γ = parametro gamma (es: 3.2 come nel codice)
