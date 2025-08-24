@@ -2,13 +2,13 @@
 
 ## 1. Base (Input)
 
-![lena](https://github.com/user-attachments/assets/e74c0ccb-eb8c-4c40-bf55-f436f46e60e6)
-
+<img width="256" height="256" alt="lena" src="https://github.com/user-attachments/assets/13f3a3c0-125a-47e6-b605-4ca22a1be885" />
 La nostra amata Lena.png 
 
 ## 2. Base(0.0), Negativo (256.0), Gamma(0.256), Logaritmo(256,256)
 
-![image](https://github.com/user-attachments/assets/03674e34-82c0-4e82-adb0-e1bc1491d4d5)
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/f8af3ab9-39e6-405d-8345-f614a4d945f1" />
+
 
 **Negativo:**  
 `s = 255 - r`
@@ -18,3 +18,7 @@ La nostra amata Lena.png
 
 **Logaritmo:**  
 `s = (256 / ln(256)) * ln(1 + r)`
+
+r = valore del pixel in input (0-255)
+s = valore del pixel in output (0-255)
+γ = parametro gamma (es: 3.2 come nel codice)
