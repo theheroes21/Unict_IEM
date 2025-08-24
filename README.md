@@ -1,3 +1,4 @@
-# IEM
+# FILTRI
 
-Negativo = 255 - 
+# 1 Base (Input)
+Lena.png 
