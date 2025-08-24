@@ -10,7 +10,5 @@ La nostra amata Lena.png
 **Negativo**: \(s = 255 - r\)  
 **Gamma**: \(s = \frac{1}{255^{\gamma-1}} \cdot r^\gamma\)  
 **Logaritmo**: \(s = \frac{256}{\ln(256)} \cdot \ln(1 + r)\)
-  
-
 
 
