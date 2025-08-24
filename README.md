@@ -1,3 +1,3 @@
 # IEM
 
-# wdqqd
+Negativo = 255 - 
