@@ -25,3 +25,7 @@ r = valore del pixel in input (0-255)
 s = valore del pixel in output (0-255)
 
 γ = parametro gamma (es: 3.2 come nel codice)
+
+## 3. Istogramma: Base, Stretching, Equalizza
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e7220940-4e5d-427f-aeed-712d13869214" />
