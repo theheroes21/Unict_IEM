@@ -4,7 +4,7 @@
 
 <img width="256" height="256" alt="lena" src="https://github.com/user-attachments/assets/13f3a3c0-125a-47e6-b605-4ca22a1be885" />
 
-La nostra amata Lena.png 
+*La nostra amata Lena.png*
 
 ## 2. Base(0.0), Negativo (256.0), Gamma(0.256), Logaritmo(256,256)
 
