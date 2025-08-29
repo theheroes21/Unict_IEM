@@ -46,3 +46,8 @@ Quantizzzione: processo di riduzione del numero di valori di intensità
 
 `q = int((float(q)/(k-1)) *255);`
 
+## 5. BitPlane
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/9652c926-8529-41f0-99f0-899c0e1a6dd9" />
+
+
