@@ -69,3 +69,15 @@ Da ricordare
 minimo -> ` R.set(x,y,color(min(tmpF)));`
 massimo -> `R.set(x,y,color(min(tmpF)));`
 
+
+## 7. Mediano
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/54e6bf16-00ea-42de-990b-8e0c582f038e" />
+
+mediano -> `tmpF = sort(tmpF)`
+
+`if((N*N)%2 == 1)
+         med = tmpF[(N*N)/2];
+       else
+         med = ( tmpF[(N*N)/ 2] + tmpF[(N*N)/2-1] ) / 2;`
+
