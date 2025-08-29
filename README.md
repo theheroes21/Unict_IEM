@@ -49,6 +49,18 @@ Quantizzzione: processo di riduzione del numero di valori di intensità
 ## 5. BitPlane
 
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/9652c926-8529-41f0-99f0-899c0e1a6dd9" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/fe5a5362-1761-401f-83dd-2ac2a16ee2c7" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6912be90-e822-457c-8dbf-a20979688c23" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/5e9e2769-d3bd-45b5-aa18-f42d5350b282" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/1e24e0a6-730d-4ea0-9cd2-3ed0f86e7faa" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9f9ce596-01a7-4534-aefc-20b20295e9cf" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/2f1bbe48-a61e-46bb-a774-0f43d4ac7405" />
 <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/611a4451-85b6-49fb-a835-5c40f31efe44" />
+
+Da ricordare 
+
+` x = int(brightness(R.pixels[i]));`
+`r = (x>>nb)&1; `
+
 
 
