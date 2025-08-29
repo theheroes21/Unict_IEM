@@ -67,6 +67,7 @@ Da ricordare
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/035d39a0-1b9f-4058-ad64-23645c55e376" />
 
 minimo -> ` R.set(x,y,color(min(tmpF)));`
+
 massimo -> `R.set(x,y,color(min(tmpF)));`
 
 
@@ -76,8 +77,11 @@ massimo -> `R.set(x,y,color(min(tmpF)));`
 
 mediano -> `tmpF = sort(tmpF)`
 
-`if((N*N)%2 == 1)
-         med = tmpF[(N*N)/2];
-       else
-         med = ( tmpF[(N*N)/ 2] + tmpF[(N*N)/2-1] ) / 2;`
+`if((N*N)%2 == 1)`
+
+         `med = tmpF[(N*N)/2];`
+         
+       `else`
+       
+         `med = ( tmpF[(N*N)/ 2] + tmpF[(N*N)/2-1] ) / 2;`
 
