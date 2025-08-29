@@ -49,6 +49,6 @@ Quantizzzione: processo di riduzione del numero di valori di intensità
 ## 5. BitPlane
 
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/9652c926-8529-41f0-99f0-899c0e1a6dd9" />
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/611a4451-85b6-49fb-a835-5c40f31efe44" />
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/611a4451-85b6-49fb-a835-5c40f31efe44" />
 
 
