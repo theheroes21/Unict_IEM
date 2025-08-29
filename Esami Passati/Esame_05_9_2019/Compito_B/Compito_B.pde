@@ -12,11 +12,11 @@ PImage sBlock(PImage I, int h)
 {
   PImage R = I.copy();
   
-  int u = (int) random(h/2,I.width-h/2);
-  int v = (int) random(h/2,I.height-h/2);
+  int u = (int) random(h/2,I.width-h/2+1);
+  int v = (int) random(h/2,I.height-h/2+1);
   
-  int u1 = (int) random(h/2,I.width-h/2);
-  int v1 = (int) random(h/2,I.height-h/2);
+  int u1 = (int) random(h/2,I.width-h/2+1);
+  int v1 = (int) random(h/2,I.height-h/2+1);
   
   int offset = h / 2; //per centrare il quadrato
   
@@ -90,3 +90,4 @@ void keyPressed()
   if(key == 'R' || key == 'r')
     reset();
 }
+
