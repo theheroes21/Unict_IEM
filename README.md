@@ -78,10 +78,7 @@ massimo -> `R.set(x,y,color(min(tmpF)));`
 mediano -> `tmpF = sort(tmpF)`
 
 `if((N*N)%2 == 1)`
-
          `med = tmpF[(N*N)/2];`
-         
        `else`
-       
          `med = ( tmpF[(N*N)/ 2] + tmpF[(N*N)/2-1] ) / 2;`
 
