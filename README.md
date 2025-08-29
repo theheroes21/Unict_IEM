@@ -32,7 +32,7 @@ s = valore del pixel in output (0-255)
 
 Istogramma: mostra la distribuzione dei livelli di intensità dei pixel
 
-Stretching: migliora il contrasto "allungando" l'istogramma su tutto l'intervallo disponibile (0-255)
+Stretching o Espansione del contrasto : migliora il contrasto "allungando" l'istogramma su tutto l'intervallo disponibile (0-255)
 
 Equalizza: tecnica più avanzata per ridistribuire i valori dei pixel in modo da ottenere un istogramma il più possibile uniforme
 
