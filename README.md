@@ -62,5 +62,10 @@ Da ricordare
 ` x = int(brightness(R.pixels[i]));`
 `r = (x>>nb)&1; `
 
+## 6. Minimo (0,0) e Massimo (256,0)
 
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/035d39a0-1b9f-4058-ad64-23645c55e376" />
+
+minimo -> ` R.set(x,y,color(min(tmpF)));`
+massimo -> `R.set(x,y,color(min(tmpF)));`
 
