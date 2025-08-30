@@ -86,6 +86,8 @@ mediano -> `tmpF = sort(tmpF)`
 ## 8. Convoluzione
 
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e77062fd-5c3c-4e67-9bef-53ab2a63bd16" />
+
+
   `In3 = converti(convoluzione(Im,nbox3));`
   `In5 = converti(convoluzione(Im,nbox5));`
   `Il = converti(convoluzione(Im,lapl));`
