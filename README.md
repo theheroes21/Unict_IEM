@@ -81,4 +81,38 @@ mediano -> `tmpF = sort(tmpF)`
          `med = tmpF[(N*N)/2];`
        `else`
          `med = ( tmpF[(N*N)/ 2] + tmpF[(N*N)/2-1] ) / 2;`
+         
+
+## 8. Convoluzione
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e77062fd-5c3c-4e67-9bef-53ab2a63bd16" />
+  `In3 = converti(convoluzione(Im,nbox3));`
+  `In5 = converti(convoluzione(Im,nbox5));`
+  `Il = converti(convoluzione(Im,lapl));`
+  `Is=converti(convoluzione(Im,sharp));`
+  `IsX=converti(convoluzione(Im,sobX));`
+  
+  `image(Im,0,0);`
+  `image(In3,400,0);`
+  `image(In5,800,0);`
+  `image(Il,0,360);`
+  `image(Is,400,360);`
+  `image(IsX,800,360);`
+
+
+## 9. Scaling (Foward e Inverse)
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/04df58d4-16eb-40ea-9dda-f68b1c172e68" />
+
+Foward (0,0)   Inverse(256,0)
+
+
+# 10. Rotation (Foward e Inverse)
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/684e98ec-f86e-4b77-8f6f-0b9f6098b199" />
+
+Foward (0,0)   Inverse(256,0)
+
+
+
 
