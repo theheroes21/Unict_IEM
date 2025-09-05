@@ -15,9 +15,10 @@ void setup()
    }
    
    // Metodo 2 diagonale II
-   for(int i = 0; i < Im.width; i++) {
-    Im.set(Im.width-i, i, c); 
-  }
+   for(int i = 0; i < Im.width; i++) 
+   {
+    Im.set(Im.width-i, i, c);
+   }
  
 }
 
@@ -30,4 +31,5 @@ int pos(int x, int y, int w)
 {
   return x+y*w;
 }
+
 
