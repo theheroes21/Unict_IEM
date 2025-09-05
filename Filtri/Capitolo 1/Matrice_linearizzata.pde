@@ -8,10 +8,16 @@ void setup()
    
    color c = color(255,255,0);
    
+   // Metodo 1 diagonale I
    for(int i=0; i<Im.width; i++)
    {
      Im.pixels[pos(i,i,Im.width)] = c;
    }
+   
+   // Metodo 2 diagonale II
+   for(int i = 0; i < Im.width; i++) {
+    Im.set(Im.width-i, i, c); 
+  }
  
 }
 
@@ -24,3 +30,4 @@ int pos(int x, int y, int w)
 {
   return x+y*w;
 }
+
